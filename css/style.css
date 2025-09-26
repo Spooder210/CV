@@ -58,6 +58,15 @@ p {
     font-size: 1.2rem;
 }
 
+.nombre{
+    color: white;
+}
+
+.nombre:hover{
+    text-decoration: underline;
+    color: white;
+}
+
 /* RESPONSIVO */
 @media (max-width: 600px) {
     nav {
